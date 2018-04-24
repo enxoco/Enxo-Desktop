@@ -3,7 +3,9 @@
 # Enxo-Desktop
 Public Releases for Enxo Desktop
 
-### Step 1.  Download the Installer.  You should see this prompt at the bottom of your screen.  You can choose run.
+### Step 1.  Download the Installer from this link:
+### https://github.com/enxoco/Enxo-Desktop/releases/download/v0.1/Enxo.Desktop.Installer.Setup.0.0.1.exe.  
+### You should see this prompt at the bottom of your screen.  You can choose run.
 ![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step1.PNG)
 
 
