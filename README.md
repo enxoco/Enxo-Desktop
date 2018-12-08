@@ -4,42 +4,38 @@
 Public Releases for Enxo Desktop
 
 ### Step 1.  Download the Installer from this link:
-### https://github.com/enxoco/Enxo-Desktop/releases/download/v0.1/Enxo.Desktop.Installer.Setup.0.0.1.exe.  
-### You should see this prompt at the bottom of your screen.  You can choose run.
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step1.PNG)
+### https://github.com/enxoco/Enxo-Desktop/releases/download/1/Enxo.Guardrails.Setup.0.1.0.exe.  
+
+
+### Step 2.  Double click the file to get started and click yes to the User Account prompt
+![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step1.png)
 
 
 
 
-### Step 2.  You will the following prompt from Windows.
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step2.PNG)
+### Step 3.  Once the app loads you should see a login window.  Login using your Enxo account.  If you don't yet have an account, open your browser and go to https://enxo.co/register to sign up.
+![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step2.png)
 
 
 
 
-### Step 3.  Click More info, then click Run anyway
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step3.PNG)
+### Step 4.  Once logged in, click on Setup to begin
+![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step3.png)
 
 
 
 
-### Step 4.  The Enxo Desktop app should now be installing.  It should only take a minute or so.
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step4.PNG)
+### Step 5.  The setup process should only take a moment.  Once finished you should see the following.  To make sure everything is working you can click on the Check protection button.  This will attempt to load http://blocked.enxo.co which is a harmless site but should be blocked if Enxo has been installed properly.
+![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step4.png)
 
 
 
 
-### Step 5.  Once it is done installing the Enxo Desktop app, it should open up.
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step5.PNG)
+### Step 6.  If everything went right, you should see the following window.  You can now close out of all of the windows and enjoy Guardrails protection by Enxo.
+![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step.png)
+
+
+### If you have any issues, please feel free to reach out to us at support@enxo.co
 
 
 
-
-### Step 6.  Enter your 4 digit setup code in the box and click on Install.  You should be prompted with a security warning.  Click Yes to install the certificate
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step6.PNG)
-
-
-
-
-### Step 7.  If Enxo installed properly, you should see a message.  You can click the button to close out the app.  Everything is now ready to go.
-![alt text](https://github.com/enxoco/Enxo-Desktop/blob/master/step7.PNG)
